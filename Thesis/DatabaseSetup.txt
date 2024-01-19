@@ -1,0 +1,19 @@
+Step 1:
+Download and Install the MySQL Server and Workbench.
+Video Link:https://youtu.be/k5tICunelSU
+           https://youtu.be/k5tICunelSU?t=12
+
+
+Step 2:
+Add the mysql-connector-j-8.0.31 file and sqljdbc_11.2.
+open the project in netbeans.
+now, Right click on libraries folder, select the add jar/folder then go to mysql-connector-j-8.0.31 then select the mysql-connector-j-8.0.31.
+now, Right click on libraries folder, select the add jar/folder then go to sqljdbc_11.2 then select the enu folder , select the mssql-jdbc-11.2.1.jre8.
+Successfully add the mysql-connector-j-8.0.31 file and sqljdbc_11.2 jar files.
+
+
+
+Step 2:
+Video Link:https://youtu.be/V9sHfboBSvk
+           https://youtu.be/V9sHfboBSvk?t=51
+
